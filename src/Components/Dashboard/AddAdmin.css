@@ -1,0 +1,15 @@
+
+.doctorForm input {
+	height: 3rem;
+	border: none;
+}
+
+@media (max-width: 800px) {
+	#modal-responsive {
+		width: 90% !important;
+	}
+
+	#responsive-dashboard {
+		margin-left: 300px;
+	}
+}
